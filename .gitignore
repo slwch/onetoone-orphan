@@ -1,0 +1,8 @@
+*.jar
+*.class
+*.cmd
+mvnw
+/.idea
+/.mvn
+/.settings
+/target
