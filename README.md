@@ -1,2 +1,3 @@
-Change Database details i persistence.xml
-Run Main.java theh MainUpdate.java
+Change Database details in persistence.xml
+
+Run Main.java then MainUpdate.java
